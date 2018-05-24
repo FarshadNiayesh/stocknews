@@ -1,0 +1,2 @@
+pandas
+newspaper3k
